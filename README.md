@@ -15,7 +15,7 @@ WEB и API приложение за управление на часове, и�
 
 ```bash
 git clone https://github.com/alexxivanov/Laravel-Appointments.git
-cd appointments
+cd Laravel-Appointments
 composer install
 cp .env.example .env
 php artisan key:generate
